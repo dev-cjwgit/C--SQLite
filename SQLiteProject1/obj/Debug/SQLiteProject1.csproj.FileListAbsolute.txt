@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\bin\Debug\SQLiteProject1.exe.config
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\bin\Debug\SQLiteProject1.exe
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\bin\Debug\SQLiteProject1.pdb
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\bin\Debug\SQLiteComponent.dll
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\bin\Debug\SQLiteComponent.pdb
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.Main.resources
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.Properties.Resources.resources
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.csproj.CopyComplete
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.exe
+C:\Users\user\source\repos\SQLiteProject1\SQLiteProject1\obj\Debug\SQLiteProject1.pdb
