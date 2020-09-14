@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\SQLiteProject1\\SQLiteComponent\\SQLiteComponent.csproj": {}
+    "C:\\Users\\user\\Desktop\\src\\SQLite_C#\\SQLiteComponent\\SQLiteComponent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\SQLiteProject1\\SQLiteComponent\\SQLiteComponent.csproj": {
+    "C:\\Users\\user\\Desktop\\src\\SQLite_C#\\SQLiteComponent\\SQLiteComponent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\SQLiteProject1\\SQLiteComponent\\SQLiteComponent.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\src\\SQLite_C#\\SQLiteComponent\\SQLiteComponent.csproj",
         "projectName": "SQLiteComponent",
-        "projectPath": "C:\\Users\\user\\source\\repos\\SQLiteProject1\\SQLiteComponent\\SQLiteComponent.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\src\\SQLite_C#\\SQLiteComponent\\SQLiteComponent.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\SQLiteProject1\\SQLiteComponent\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\src\\SQLite_C#\\SQLiteComponent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

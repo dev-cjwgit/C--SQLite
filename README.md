@@ -1,4 +1,10 @@
 VisualStudio2019
+실행 폴더 기준으로
+/x86/SQLite.Interop.dll
+/SQLiteComponent.dll
+/System.Data.SQLite.dll
+파일이 필수적으로 존재해야함.
+
 솔루션에서 "추가" - "기존 프로젝트" 후 "SQLiteComponent"의 SQLiteComponent.csproj 추가.
 사용하려는 Main 솔루션의 "참조" 우클릭 "참초추가" 후 "SQLiteComponent" 클릭후 확인
 SQLite sql = new SQLite(Environment.CurrentDirectory,"default"); // folder path와 생성할 파일이름지정.

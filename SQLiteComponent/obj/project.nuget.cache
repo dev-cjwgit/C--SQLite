@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RLqGyz0pMM+EvAe8tQ980Aderk4Fqn4ggDmxsvCIz1nVw9c8Zwg1+eHWcdqvYcNhWoHl6A9IJp4IFISt1fiELQ==",
+  "dgSpecHash": "9C7hOJHArzK2KiOc6dXcb8xblBtQcyL0+kjhV0KB0O83ZuH0OPjvJIWCwrzfDRoWAIxJqrGKVZh6VA4hIBbVGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\SQLiteProject1\\SQLiteComponent\\SQLiteComponent.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\src\\SQLite_C#\\SQLiteComponent\\SQLiteComponent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
